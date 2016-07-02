@@ -1,0 +1,16 @@
+D:\SkyDrive\WorkSpace\Visual Studio 2010\Projects\MESBase\AutoUpdater\obj\Release\AutoUpdateMaker.resources
+D:\SkyDrive\WorkSpace\Visual Studio 2010\Projects\MESBase\AutoUpdater\obj\Release\AutoUpdater.Properties.Resources.resources
+D:\SkyDrive\WorkSpace\Visual Studio 2010\Projects\MESBase\AutoUpdater\obj\Release\AutoUpdater.csproj.GenerateResource.Cache
+D:\SkyDrive\WorkSpace\Visual Studio 2010\Projects\MESBase\AutoUpdater\bin\Release\AutoUpdater.exe
+D:\SkyDrive\WorkSpace\Visual Studio 2010\Projects\MESBase\AutoUpdater\bin\Release\AutoUpdater.pdb
+D:\SkyDrive\WorkSpace\Visual Studio 2010\Projects\MESBase\AutoUpdater\obj\Release\AutoUpdater.exe
+D:\SkyDrive\WorkSpace\Visual Studio 2010\Projects\MESBase\AutoUpdater\obj\Release\AutoUpdater.pdb
+D:\SkyDrive\WorkSpace\Visual Studio 2010\Projects\RaywindStudio40\AutoUpdater\bin\Release\AutoUpdater.exe.config
+D:\SkyDrive\WorkSpace\Visual Studio 2010\Projects\RaywindStudio40\AutoUpdater\bin\Release\AutoUpdater.exe
+D:\SkyDrive\WorkSpace\Visual Studio 2010\Projects\RaywindStudio40\AutoUpdater\bin\Release\AutoUpdater.pdb
+D:\SkyDrive\WorkSpace\Visual Studio 2010\Projects\RaywindStudio40\AutoUpdater\obj\Release\AutoUpdateMaker.resources
+D:\SkyDrive\WorkSpace\Visual Studio 2010\Projects\RaywindStudio40\AutoUpdater\obj\Release\AutoUpdater.Properties.Resources.resources
+D:\SkyDrive\WorkSpace\Visual Studio 2010\Projects\RaywindStudio40\AutoUpdater\obj\Release\AutoUpdater.csproj.GenerateResource.Cache
+D:\SkyDrive\WorkSpace\Visual Studio 2010\Projects\RaywindStudio40\AutoUpdater\obj\Release\AutoUpdater.exe
+D:\SkyDrive\WorkSpace\Visual Studio 2010\Projects\RaywindStudio40\AutoUpdater\obj\Release\AutoUpdater.pdb
+D:\SkyDrive\WorkSpace\Visual Studio 2010\Projects\RaywindStudio40\AutoUpdater\obj\Release\AutoUpdater.csprojResolveAssemblyReference.cache

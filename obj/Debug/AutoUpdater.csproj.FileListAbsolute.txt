@@ -1,0 +1,8 @@
+D:\SkyDrive\WorkSpace\Visual Studio 2010\Projects\RaywindStudio40\AutoUpdater\bin\Debug\AutoUpdater.exe.config
+D:\SkyDrive\WorkSpace\Visual Studio 2010\Projects\RaywindStudio40\AutoUpdater\bin\Debug\AutoUpdater.exe
+D:\SkyDrive\WorkSpace\Visual Studio 2010\Projects\RaywindStudio40\AutoUpdater\bin\Debug\AutoUpdater.pdb
+D:\SkyDrive\WorkSpace\Visual Studio 2010\Projects\RaywindStudio40\AutoUpdater\obj\Debug\AutoUpdateMaker.resources
+D:\SkyDrive\WorkSpace\Visual Studio 2010\Projects\RaywindStudio40\AutoUpdater\obj\Debug\AutoUpdater.Properties.Resources.resources
+D:\SkyDrive\WorkSpace\Visual Studio 2010\Projects\RaywindStudio40\AutoUpdater\obj\Debug\AutoUpdater.csproj.GenerateResource.Cache
+D:\SkyDrive\WorkSpace\Visual Studio 2010\Projects\RaywindStudio40\AutoUpdater\obj\Debug\AutoUpdater.exe
+D:\SkyDrive\WorkSpace\Visual Studio 2010\Projects\RaywindStudio40\AutoUpdater\obj\Debug\AutoUpdater.pdb
