@@ -23,6 +23,7 @@
                         <Exclusion />
                     </Obfuscation>
                     <ControlFlow Obfuscate="1" ObfuscationLevel="4" />
+                    <StringsEncoding />
                 </Merging>
                 <Embedding />
             </Assembly>
@@ -151,6 +152,13 @@
                 </Merging>
             </Assembly>
             <Assembly AssemblyName="SmartAssembly.Zip, Culture=neutral, PublicKeyToken=7f465a1c156d4d57">
+                <Merging>
+                    <Obfuscation>
+                        <Exclusion />
+                    </Obfuscation>
+                </Merging>
+            </Assembly>
+            <Assembly AssemblyName="SmartAssembly.HouseOfCards, Culture=neutral, PublicKeyToken=7f465a1c156d4d57">
                 <Merging>
                     <Obfuscation>
                         <Exclusion />

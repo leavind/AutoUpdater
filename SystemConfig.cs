@@ -9,7 +9,7 @@ public class SystemConfig
         {
             SqlAdo.ExecuteNonQuery(@"IF not EXISTS (SELECT * FROM dbo.SysObjects 
                                     WHERE ID = object_id(N'[SystemConfig]') 
-                                    AND ((OBJECTPROPERTY(ID,'IsTable') = 1) or (OBJECTPROPERTY(ID,'IsView') = 1))) ) 
+                                    AND ((OBJECTPROPERTY(ID,'IsTable') = 1) or (OBJECTPROPERTY(ID,'IsView') = 1)))  
                                     begin
                                             CREATE TABLE [dbo].[SystemConfig](
 	                                            [ID] [int] IDENTITY(1,1) NOT NULL,
