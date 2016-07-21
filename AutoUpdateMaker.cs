@@ -25,7 +25,8 @@ public partial class AutoUpdateMaker : Form
         dGV1.AlternatingRowsDefaultCellStyle.BackColor = Color.Honeydew;
         textBox9.Text = Application.StartupPath;
         SqlAdo.ExecuteNonQuery(@"IF not EXISTS (SELECT * FROM dbo.SysObjects 
-                                    WHERE ID=object_id(N'[RSAutoUpdateFile]') AND OBJECTPROPERTY(ID,'IsTable')=1) 
+                                    WHERE ID=object_id(N'[RSAutoUpdateFile]') 
+                                    AND ((OBJECTPROPERTY(ID,'IsTable') = 1) or (OBJECTPROPERTY(ID,'IsView') = 1))) ) 
                                     begin
 	                                   CREATE TABLE [dbo].[RSAutoUpdateFile](
 	                                        [FilePath] [nvarchar](500) NOT NULL,

@@ -8,7 +8,8 @@ public class ClientConfig
         if (!initsql)
         {
             SqlAdo.ExecuteNonQuery(@"IF not EXISTS (SELECT * FROM dbo.SysObjects 
-                                    WHERE ID = object_id(N'[ClientConfig]') AND OBJECTPROPERTY(ID,'IsTable') = 1) 
+                                    WHERE ID = object_id(N'[ClientConfig]') 
+                                    AND ((OBJECTPROPERTY(ID,'IsTable') = 1) or (OBJECTPROPERTY(ID,'IsView') = 1))) ) 
                                     begin
                                         CREATE TABLE [dbo].[ClientConfig](
 	                                        [MachineID] [nvarchar](50) NOT NULL,

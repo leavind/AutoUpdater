@@ -4,7 +4,7 @@
         <Options>
             <ExceptionReporting Template="res:{SmartExceptions}.1033.dll" />
             <FeatureUsageReporting Template="res:SmartUsageWithUIConsentFirstRun1033.dll" />
-            <StringsEncoding Compress="1" Encode="1" />
+            <StringsEncoding Compress="1" Encode="1" UseCache="1" UseImprovedEncoding="1" />
             <StrongNameSigning KeyFileName="..\..\..\..\..\..\_Lib\saSNK.snk" Sign="1" />
             <OtherOptimizations />
             <Obfuscation ChangeMethodParent="1" FieldsNameMangling="3" NameMangling="3" />
